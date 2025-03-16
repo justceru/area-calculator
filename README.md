@@ -1,1 +1,1 @@
-# area-calculator
+# Checkpoint Project - Area Calculator
